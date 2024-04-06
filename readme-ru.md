@@ -149,7 +149,7 @@
 - 🔌 [Free Product Analytics with Firebase + BigQuery + Rakam](https://rakam.io/blog/free-product-analytics-with-firebase---bigquery---rakam/) - Как выполнить поведенческий анализ и анализ сегментации данных событий Firebase через BigQuery Export и Rakam.
 - 🔌 [Firestore Queue System](https://github.com/sbarbat/firestore-queuer) - Простая система очередей с использованием Firestore и Cloud Functions.
 - 🔌 [Pyrebase](https://github.com/thisbejim/Pyrebase) - Простая обертка на python для Firebase API.
-- 🔌 [Firecode](https://github.com/kafkas/firecode) - Легкая, быстрая и экономичная библиотека для обхода коллекций для Firestore и Node.js.
+- 🔌 [Firewalk](https://github.com/kafkas/firewalk) - Легкая, быстрая и экономичная библиотека для обхода коллекций для Firestore и Node.js.
 
 ## Интерфейс комадной строки и редактор
 
